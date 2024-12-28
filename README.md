@@ -1,4 +1,4 @@
-# ESP HOME Config for Tuya String Lights
+# ESP HOME Config for Tuya Globe Fairy/String Lights
 
 This repo contains a sample ESP HOME config for Tuya String Lights based on the BK7231T Wifi Module and [M031FC1AE](https://www.nuvoton.com/products/microcontrollers/arm-cortex-m0-mcus/m031-series/m031fc1ae/) MCU.
 
